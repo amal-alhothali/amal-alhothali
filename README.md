@@ -19,6 +19,15 @@
 
   Understanding network security, data encryption, and building secure systems.
 
+- <b>API Testing Tools</b>
+
+  I have hands-on experience with API testing tools like Postman and Insomnia.
+
+- <b>Database Management</b>
+
+  Familiarity with database management systems like Firebase, MySQL, MongoDB.
+
+
 <h3>🎯 Current Learning Goals:</h3>
 
 - <b>Deep dive into Cyber Security.</b>
@@ -26,12 +35,17 @@
 
 <h3>👨‍💻 Tools & Languages I Use:</h3>
 
-- <b>Programming Languages:</b> JavaScript, Swift, Kotlin, Python
-- <b>Frameworks & Libraries:</b>  React, Node.js, Express.js, SwiftUI
-- <b>Cloud Platforms:</b>  AWS, Azure
-- <b>DevOps Tools:</b>  Docker, Jenkins
+- <b>Programming Languages:</b> Java, Python, C++.
+- <b>App Development:</b> Dart Language, Flutter Framework.
+- <b>Frameworks & Libraries:</b>  Node.js.
+- <b>Frontend Languages:</b> HTML, CSS, JavaScript.
+- <b>Operating Systems:</b> Windows, Ubuntu, Kali Linux.
+- <b>Cloud Platforms:</b>  AWS, Azure.
+- <b>API Testing Tools:</b> Postman, Insomnia.
+- <b>Database Management:</b> MySQL, MongoDB, Firebase.
+
 
 <h3>🔗 Let’s Connect:</h3>
-<b>Reach out on LinkedIn:</b> https://www.linkedin.com/in/amalalhothali
+<b>Reach out on <a href="https://linkedin.com/in/amalalhothali">Linkedin</a></b>
 
 
