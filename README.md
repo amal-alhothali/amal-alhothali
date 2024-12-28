@@ -37,11 +37,11 @@
 
 - <b>Programming Languages:</b> Java, Python, C++.
 - <b>App Development:</b> Dart Language, Flutter Framework.
-- <b>Frameworks & Libraries:</b>  Node.js.
+- <b>Frameworks & Libraries:</b>  Node.js, Express.js.
 - <b>Frontend Languages:</b> HTML, CSS, JavaScript.
 - <b>Operating Systems:</b> Windows, Ubuntu, Kali Linux.
 - <b>Cloud Platforms:</b>  AWS, Azure.
-- <b>API Testing Tools:</b> Postman, Insomnia.
+- <b>API Development & Testing:</b>  RESTful API, Token Authentication, Postman, Insomnia.
 - <b>Database Management:</b> MySQL, MongoDB, Firebase.
 
 
