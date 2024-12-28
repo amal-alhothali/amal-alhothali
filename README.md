@@ -5,7 +5,7 @@
 
 - <b>Web Application Development</b>
 
-  Building dynamic, user-friendly websites with HTML, CSS, JavaScript, and NodeJS.
+  Building dynamic, user-friendly websites with HTML, CSS, JavaScript, Node.js, and Express.js, with experience in developing RESTful APIs. Also skilled in creating websites using WordPress, and customizing them with Divi and Elementor for enhanced functionality and design.
   
 - <b>Mobile App Development</b>
 
@@ -17,15 +17,15 @@
   
 - <b>Cybersecurity Fundamentals</b>
 
-  Understanding network security, data encryption, and building secure systems.
+  Understanding network security, data encryption, and building secure systems with a focus on token-based authentication and secure APIs.
 
-- <b>API Testing Tools</b>
+- <b>API Development & Testing</b>
 
-  I have hands-on experience with API testing tools like Postman and Insomnia.
-
+  Developing and testing RESTful APIs and token-based authentication systems with tools like Postman and Insomnia, utilizing JSON Web Tokens (JWT).
+  
 - <b>Database Management</b>
 
-  Familiarity with database management systems like Firebase, MySQL, MongoDB.
+  Familiarity with database management systems like Firebase, MySQL, and MongoDB, using Mongoose for MongoDB integration.
 
 
 <h3>🎯 Current Learning Goals:</h3>
